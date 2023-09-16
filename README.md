@@ -1,5 +1,5 @@
 ### AIML20230055
-Projects and assignments of AIML 2023 at IIT-H
+Projects and assignments of AI/ML program at IIT-H, 2023
 <!--
 **aiml20230055/aiml20230055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
